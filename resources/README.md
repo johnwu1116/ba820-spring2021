@@ -105,10 +105,10 @@ Below are some resources for association rules.
 
 ## UML Wrapup
 
--[How to use tsne effectively](https://distill.pub/2016/misread-tsne/) 
--[PCA vs TSNE vs UMAP](https://towardsdatascience.com/dimensionality-reduction-for-data-visualization-pca-vs-tsne-vs-umap-be4aa7b1cb29) 
--[Another good TSNE and UMAP review and tool](https://pair-code.github.io/understanding-umap/) 
--[How UMAP works](https://towardsdatascience.com/how-exactly-umap-works-13e3040e1668) 
+- [How to use tsne effectively](https://distill.pub/2016/misread-tsne/) 
+- [PCA vs TSNE vs UMAP](https://towardsdatascience.com/dimensionality-reduction-for-data-visualization-pca-vs-tsne-vs-umap-be4aa7b1cb29) 
+- [Another good TSNE and UMAP review and tool](https://pair-code.github.io/understanding-umap/) 
+- [How UMAP works](https://towardsdatascience.com/how-exactly-umap-works-13e3040e1668) 
 - [Recommendation Engines in python](https://realpython.com/build-recommendation-engine-collaborative-filtering/) 
 
 
@@ -134,6 +134,7 @@ Below are some resources for association rules.
 -[TextBlob](https://textblob.readthedocs.io/en/dev/)
 -[nltk sentiment - Vader - good overview of other toolkits](https://realpython.com/python-nltk-sentiment-analysis/#using-nltks-pre-trained-sentiment-analyzer)
 -[Paper: Measuring Word Significance](https://arxiv.org/pdf/1508.02297.pdf) 
+- [Gensim Word2Vec help](https://radimrehurek.com/gensim/auto_examples/tutorials/run_word2vec.html) 
 - [Word Embedding Intuition](https://towardsdatascience.com/word-embeddings-intuition-and-some-maths-to-understand-end-to-end-skip-gram-model-cab57760c745) 
 
 
