@@ -41,13 +41,20 @@ Below are links to resources that make plotting easier for all sorts of tasks, e
 
 ## Unrelated (But) Great Tutorials and Resources
 
-- [Modern pandas - tidyverse like features via chaining!](https://tomaugspurger.github.io/method-chaining)
-- [Adjusting observed values](https://towardsai.net/p/data-science/how-when-and-why-should-you-normalize-standardize-rescale-your-data-3f083def38ff)
-- [Chrome Extensions for ML Engineers + Data scraping!](https://pub.towardsai.net/must-have-chrome-extensions-for-machine-learning-engineers-and-data-scientists-5968bda69ee)
-- [Hidden APIS for scraping](https://towardsdatascience.com/a-single-line-of-python-code-scraping-dataset-from-webpages-c9d2a8805d61)
-- [Scraping Google Maps Reviews](https://towardsdatascience.com/scraping-google-maps-reviews-in-python-2b153c655fc2)
-- [Create a Distill Blog in 90 seconds](https://www.youtube.com/watch?v=ZOBXGxPH3Zo)
--[Streamlit Cheatsheet App](https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/app.py)
+- [Modern pandas - tidyverse like features via chaining!](https://tomaugspurger.github.io/method-chaining) 
+
+- [Adjusting observed values](https://towardsai.net/p/data-science/how-when-and-why-should-you-normalize-standardize-rescale-your-data-3f083def38ff) 
+
+- [Chrome Extensions for ML Engineers + Data scraping!](https://pub.towardsai.net/must-have-chrome-extensions-for-machine-learning-engineers-and-data-scientists-5968bda69ee) 
+
+- [Hidden APIS for scraping](https://towardsdatascience.com/a-single-line-of-python-code-scraping-dataset-from-webpages-c9d2a8805d61) 
+
+- [Scraping Google Maps Reviews](https://towardsdatascience.com/scraping-google-maps-reviews-in-python-2b153c655fc2) 
+
+- [Create a Distill Blog in 90 seconds](https://www.youtube.com/watch?v=ZOBXGxPH3Zo) 
+
+-[Streamlit Cheatsheet App](https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/app.py) 
+
   
 
 
@@ -91,25 +98,25 @@ Below are some resources for association rules.
 
 ## Dimensionality Reduction
 
-- [Great review of PCA mechanics](https://towardsdatascience.com/pca-clearly-explained-how-when-why-to-use-it-and-feature-importance-a-guide-in-python-7c274582c37e)
-- [Recreate PCA by hand](https://sebastianraschka.com/Articles/2015_pca_in_3_steps.html)
-- [The Math behind PCA](https://towardsdatascience.com/the-mathematics-behind-principal-component-analysis-fff2d7f4b643)
+- [Great review of PCA mechanics](https://towardsdatascience.com/pca-clearly-explained-how-when-why-to-use-it-and-feature-importance-a-guide-in-python-7c274582c37e) 
+- [Recreate PCA by hand](https://sebastianraschka.com/Articles/2015_pca_in_3_steps.html) 
+- [The Math behind PCA](https://towardsdatascience.com/the-mathematics-behind-principal-component-analysis-fff2d7f4b643) 
 
 
 ## UML Wrapup
 
--[How to use tsne effectively](https://distill.pub/2016/misread-tsne/)
--[PCA vs TSNE vs UMAP](https://towardsdatascience.com/dimensionality-reduction-for-data-visualization-pca-vs-tsne-vs-umap-be4aa7b1cb29)
--[Another good TSNE and UMAP review and tool](https://pair-code.github.io/understanding-umap/)
--[How UMAP works](https://towardsdatascience.com/how-exactly-umap-works-13e3040e1668)
-- [Recommendation Engines in python](https://realpython.com/build-recommendation-engine-collaborative-filtering/)
+-[How to use tsne effectively](https://distill.pub/2016/misread-tsne/) 
+-[PCA vs TSNE vs UMAP](https://towardsdatascience.com/dimensionality-reduction-for-data-visualization-pca-vs-tsne-vs-umap-be4aa7b1cb29) 
+-[Another good TSNE and UMAP review and tool](https://pair-code.github.io/understanding-umap/) 
+-[How UMAP works](https://towardsdatascience.com/how-exactly-umap-works-13e3040e1668) 
+- [Recommendation Engines in python](https://realpython.com/build-recommendation-engine-collaborative-filtering/) 
 
 
 ## Regular Expressions
 
--[regex101](https://regex101.com/)
--[Regex Tutorial with samples](https://www.oreilly.com/content/an-introduction-to-regular-expressions/)
--[regex resource](https://www.regular-expressions.info/reference.html)
+-[regex101](https://regex101.com/) 
+-[Regex Tutorial with samples](https://www.oreilly.com/content/an-introduction-to-regular-expressions/) 
+-[regex resource](https://www.regular-expressions.info/reference.html) 
 
 > Note the screenshot below:  Great resource overall for debugging and reviewing regex
 
@@ -126,7 +133,9 @@ Below are some resources for association rules.
 -[If you must wordcloud: A good tutorial](https://www.datacamp.com/community/tutorials/wordcloud-python)
 -[TextBlob](https://textblob.readthedocs.io/en/dev/)
 -[nltk sentiment - Vader - good overview of other toolkits](https://realpython.com/python-nltk-sentiment-analysis/#using-nltks-pre-trained-sentiment-analyzer)
--[Paper: Measuring Word Significance](https://arxiv.org/pdf/1508.02297.pdf)
+-[Paper: Measuring Word Significance](https://arxiv.org/pdf/1508.02297.pdf) 
+- [Word Embedding Intuition](https://towardsdatascience.com/word-embeddings-intuition-and-some-maths-to-understand-end-to-end-skip-gram-model-cab57760c745) 
+
 
 
 
