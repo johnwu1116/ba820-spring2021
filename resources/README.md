@@ -29,6 +29,7 @@ Below are links to fantastic R and python resources for all sorts of data scienc
 ## Cheatsheets
 
 - [Great Sklearn Cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Scikit_Learn_Cheat_Sheet_Python.pdf)
+- [spacy cheatsheet](http://datacamp-community-prod.s3.amazonaws.com/29aa28bf-570a-4965-8f54-d6a541ae4e06)      
 
 ## Awesome Data Viz Resources
 
@@ -42,19 +43,13 @@ Below are links to resources that make plotting easier for all sorts of tasks, e
 ## Unrelated (But) Great Tutorials and Resources
 
 - [Modern pandas - tidyverse like features via chaining!](https://tomaugspurger.github.io/method-chaining) 
-
 - [Adjusting observed values](https://towardsai.net/p/data-science/how-when-and-why-should-you-normalize-standardize-rescale-your-data-3f083def38ff) 
-
 - [Chrome Extensions for ML Engineers + Data scraping!](https://pub.towardsai.net/must-have-chrome-extensions-for-machine-learning-engineers-and-data-scientists-5968bda69ee) 
-
 - [Hidden APIS for scraping](https://towardsdatascience.com/a-single-line-of-python-code-scraping-dataset-from-webpages-c9d2a8805d61) 
-
 - [Scraping Google Maps Reviews](https://towardsdatascience.com/scraping-google-maps-reviews-in-python-2b153c655fc2) 
-
 - [Create a Distill Blog in 90 seconds](https://www.youtube.com/watch?v=ZOBXGxPH3Zo) 
-
--[Streamlit Cheatsheet App](https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/app.py) 
-
+- [Streamlit Cheatsheet App](https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/app.py) 
+- [Streamlit for your models](https://towardsdatascience.com/how-to-build-a-ui-for-your-model-in-2021-using-streamlit-3d1656fce3b8) 
   
 
 
@@ -136,12 +131,23 @@ Below are some resources for association rules.
 -[Paper: Measuring Word Significance](https://arxiv.org/pdf/1508.02297.pdf) 
 - [Gensim Word2Vec tutorial](https://radimrehurek.com/gensim/auto_examples/tutorials/run_word2vec.html) 
 - [Word Embedding Intuition](https://towardsdatascience.com/word-embeddings-intuition-and-some-maths-to-understand-end-to-end-skip-gram-model-cab57760c745) 
+- [fastText vectors - many languages](https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md#models) 
 
-
-
+  
 
 
 
 ## Scikit Resources
 
 - [Good review of Multiclass Metrics via Classification Report](https://towardsdatascience.com/multi-class-metrics-made-simple-part-ii-the-f1-score-ebe8b2c2ca1)
+- [Visualize your models for interpretability](https://pub.towardsai.net/shapash-making-ml-models-understandable-by-everyone-8f96ad469eb3) 
+
+## Rasa
+
+- [Rasa Tutorials](https://blog.rasa.com/tag/tutorials/)
+- [Rasa community](https://rasa.com/community/join/) 
+- [Rasa playground](https://rasa.com/docs/rasa/playground/) 
+- [Rasa visualization tools](https://github.com/RasaHQ/rasalit) 
+- [Visualize Rasa in notebooks](https://blog.rasa.com/evaluating-rasa-nlu-models-in-jupyter/) 
+- [fastText with spacy and rasa][https://medium.com/@expanded_blue_elk_810/rasa-loading-fasttext-vectors-with-spacy-1aad2a2431b] 
+  

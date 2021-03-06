@@ -5,6 +5,7 @@ from afinn import Afinn
 import spacy
 from spacy import displacy
 
+# source: https://gist.github.com/ines/b320cb8441b590eedf19137599ce6685
 HTML_WRAPPER = """<div style="overflow-x: auto; border: 1px solid #e6e9ef; border-radius: 0.25rem; padding: 1rem; margin-bottom: 2.5rem">{}</div>"""
 
 
