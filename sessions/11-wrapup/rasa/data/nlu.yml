@@ -1,5 +1,4 @@
 version: "2.0"
-
 nlu:
 - intent: greet
   examples: |
@@ -16,7 +15,8 @@ nlu:
     - goodmorning
     - goodevening
     - good afternoon
-
+    - yo
+    - yo yo yo
 - intent: goodbye
   examples: |
     - good afternoon
@@ -30,7 +30,7 @@ nlu:
     - see you around
     - bye bye
     - see you later
-
+    - peace
 - intent: affirm
   examples: |
     - yes
@@ -39,7 +39,7 @@ nlu:
     - of course
     - that sounds good
     - correct
-
+    - thanks
 - intent: deny
   examples: |
     - no
@@ -49,7 +49,6 @@ nlu:
     - don't like that
     - no way
     - not really
-
 - intent: mood_great
   examples: |
     - perfect
@@ -66,7 +65,7 @@ nlu:
     - so so perfect
     - so good
     - so perfect
-
+    - chill
 - intent: mood_unhappy
   examples: |
     - my day was horrible
@@ -83,10 +82,19 @@ nlu:
     - extremly sad
     - so saad
     - so sad
-
 - intent: bot_challenge
   examples: |
     - are you a bot?
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+    - are you a bot
+- intent: learn_more
+  examples: |
+    - where can I learn more?
+    - I want to learn more about rasa
+    - what to do next?
+    - how can I get help with rasa
+    - I want to learn more
+    - i want to learn more about this
+    - what can rasa do

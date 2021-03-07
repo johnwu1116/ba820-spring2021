@@ -28,3 +28,50 @@ stories:
   - action: utter_did_that_help
   - intent: deny
   - action: utter_goodbye
+
+- story: interactive_story_1
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_great
+  - action: utter_happy
+  - intent: goodbye
+  - action: utter_goodbye
+
+- story: interactive_story_1
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_great
+  - action: utter_happy
+  - intent: bot_challenge
+  - action: utter_iamabot
+  - intent: goodbye
+  - action: utter_goodbye
+
+- story: interactive_story_2
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: learn_more
+  - action: utter_learnmore
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: interactive_story_1
+  steps:
+  - intent: bot_challenge
+  - action: utter_iamabot
+  - intent: learn_more
+  - action: utter_learnmore
+  - intent: goodbye
+  - action: utter_goodbye
+
+- story: interactive_story_2
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: learn_more
+  - action: utter_learnmore
+  - intent: goodbye
+  - action: utter_goodbye

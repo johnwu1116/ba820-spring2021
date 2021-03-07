@@ -147,6 +147,7 @@ Below are some resources for association rules.
 - [Rasa Tutorials](https://blog.rasa.com/tag/tutorials/)
 - [Rasa community](https://rasa.com/community/join/) 
 - [Rasa playground](https://rasa.com/docs/rasa/playground/) 
+- [Rasa example,detailed NLU file](https://github.com/RasaHQ/rasa-demo/blob/main/data/nlu/nlu.yml) 
 - [Rasa visualization tools](https://github.com/RasaHQ/rasalit) 
 - [Visualize Rasa in notebooks](https://blog.rasa.com/evaluating-rasa-nlu-models-in-jupyter/) 
 - [fastText with spacy and rasa][https://medium.com/@expanded_blue_elk_810/rasa-loading-fasttext-vectors-with-spacy-1aad2a2431b] 
